@@ -171,7 +171,7 @@ Intelligent Applications
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/k-karthik-reddy-38695537b/">
+<a href="https://www.linkedin.com/in/k-karthik-reddy-38695537b//">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
