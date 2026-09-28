@@ -1,8 +1,9 @@
-
+<!-- ==================== HERO ==================== -->
 
 <div align="center">
 
 # K KARTHIK REDDY
+
 ### Python Developer • AI/ML Enthusiast • Engineering Student
 
 Building practical software, exploring Artificial Intelligence, and turning ideas into working projects.
@@ -15,11 +16,9 @@ Building practical software, exploring Artificial Intelligence, and turning idea
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+## About Me
 
-# About Me
-
-I'm **Karthik Reddy**, an engineering student focused on **Python, Artificial Intelligence, Machine Learning,Deep learning and software development**.
+I'm **Karthik Reddy**, an engineering student focused on **Python, Artificial Intelligence, Machine Learning, and software development**.
 
 I enjoy turning concepts into practical projects, learning by building, and continuously improving my problem-solving and development skills.
 
@@ -27,10 +26,9 @@ Currently, I'm expanding my foundations in Python and AI/ML while building proje
 
 **Currently:** B.Tech AI/ML Engineering Student  
 **Focus:** Python • AI/ML • Problem Solving • Software Development  
+**Mindset:** Learn → Build → Break → Improve → Repeat
 
 ---
-
-<!-- ==================== TECH STACK ==================== -->
 
 ## Tech Stack
 
@@ -69,9 +67,6 @@ Currently, I'm expanding my foundations in Python and AI/ML while building proje
 
 ---
 
-
-<!-- ==================== STREAK ==================== -->
-
 ## GitHub Streak
 
 <div align="center">
@@ -83,76 +78,6 @@ Currently, I'm expanding my foundations in Python and AI/ML while building proje
 </div>
 
 ---
-
-<!-- ==================== TOP LANGUAGES ==================== -->
-
-## Top Languages
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddykannari-cmd&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-<!-- ==================== ACTIVITY ==================== -->
-
-## Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=karthikreddykannari-cmd&theme=tokyo-night&hide_border=true&area=true"
-  alt="Contribution Activity Graph"
-/>
-
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karthikreddykannari-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/karthikreddykannari-cmd)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karthikreddykannari-cmd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddykannari-cmd&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-
-</div>
-
----
-
-<!-- ==================== SNAKE ==================== -->
-
-##  Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/karthikreddykannari-cmd/karthikreddykannari-cmd/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/karthikreddykannari-cmd/karthikreddykannari-cmd/output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/karthikreddykannari-cmd/karthikreddykannari-cmd/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<!-- ==================== CURRENT FOCUS ==================== -->
 
 ## Current Focus
 
@@ -175,7 +100,7 @@ Exploring the foundations of:
 
 <td width="50%">
 
-# Software Development
+### Software Development
 
 Strengthening:
 
@@ -191,8 +116,6 @@ Strengthening:
 </table>
 
 ---
-
-<!-- ==================== LEARNING BUILDING EXPLORING ==================== -->
 
 ## Learning • Building • Exploring
 
@@ -240,8 +163,6 @@ Intelligent Applications
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
-
 ## Connect With Me
 
 <div align="center">
@@ -250,11 +171,11 @@ Intelligent Applications
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/k-karthik-reddy-38695537b/">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/k-karthik-reddy-38695537b//">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:karthikreddykannari@gmail.com">
+<a href="mailto:karthikreddykannari.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -265,8 +186,6 @@ Intelligent Applications
 </div>
 
 ---
-
-<!-- ==================== PORTFOLIO ==================== -->
 
 ## GitHub Portfolio
 
@@ -308,8 +227,6 @@ I'm continuously building and publishing new projects while expanding my skills 
 
 ---
 
-<!-- ==================== PROJECT ROADMAP ==================== -->
-
 ## Building Next
 
 | Project Area | Direction |
@@ -322,8 +239,6 @@ I'm continuously building and publishing new projects while expanding my skills 
 | Automation | Developer productivity tools |
 
 ---
-
-<!-- ==================== PROFILE FOOTER ==================== -->
 
 ## Developer Philosophy
 
@@ -348,7 +263,7 @@ I'm continuously building and publishing new projects while expanding my skills 
 <br>
 
 <a href="https://github.com/karthikreddykannari-cmd">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-</a> 
- 
-</div>                                                                                   
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
